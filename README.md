@@ -1,6 +1,11 @@
-## Hi there 👋 I'm Keenan Goodchild!
+## Welcome to my GitHub profile 👋 Thank you for visiting!
 
 Certified Excel Expert | Certified Power BI Data Analyst | Certified Entry-Level Python Programmer
+
+My name is Keenan! 
+
+I'm currently working on building out my Power BI portfolio here on GitHub. Keep an eye on this space as I continue to grow as a BI developer.
+
 
 <!--
 **KGGoodchild/KGGoodchild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
