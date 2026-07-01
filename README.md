@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Keenan Goodchild!
 
+Certified Excel Expert | Certified Power BI Data Analyst | Certified Entry-Level Python Programmer
+
 <!--
 **KGGoodchild/KGGoodchild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
