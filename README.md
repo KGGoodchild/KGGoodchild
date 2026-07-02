@@ -1,8 +1,9 @@
 # Welcome to my GitHub profile!
 
-My name is Keenan Goodchild! I'm currently working on building out my portfolio here on GitHub. 
+This space is still a work in progress.
 
-Keep an eye on this space as I continue my journey as a BI developer.
+My name is Keenan Goodchild! I'm currently working on building out my portfolio here on GitHub.
+I'm open to opportunities that will allow me to continue working with data in meaningful ways.
 
 ## Certifications and Tools
 ![Static Badge](https://img.shields.io/badge/Microsoft-Excel_Expert-10793F?style=for-the-badge)
@@ -16,6 +17,13 @@ Keep an eye on this space as I continue my journey as a BI developer.
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 
+## Core Skills
+
+Core skills will go here.
+
+## Featured Projects
+
+Featured projects will go here.
 
 <!--
 **KGGoodchild/KGGoodchild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
