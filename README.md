@@ -10,6 +10,7 @@ Keep an eye on this space as I continue my journey as a BI developer.
 ![Static Badge](https://img.shields.io/badge/Python_Institute-Entry--Level%20Programmer-FFE873?style=for-the-badge&logo=python)
 
 *Familiar with*
+![SQL](https://img.shields.io/badge/SQL-2684FF?style=for-the-badge)
 ![Microsoft PowerPoint](https://img.shields.io/badge/Microsoft_PowerPoint-B7472A?style=for-the-badge&logo=microsoft-powerpoint&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Jira](https://img.shields.io/badge/jira-%230A0FFF.svg?style=for-the-badge&logo=jira&logoColor=white)
