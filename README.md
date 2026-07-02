@@ -1,4 +1,4 @@
-# Welcome to my GitHub profile 👋 Thank you for visiting!
+# Welcome to my GitHub profile!
 
 My name is Keenan Goodchild! I'm currently working on building out my portfolio here on GitHub. 
 
