@@ -22,9 +22,13 @@ I'm open to opportunities that will allow me to continue working with data in me
 
 Core skills will go here.
 
-## Featured Projects
+## Featured Python Repos
 
-Featured projects will go here.
+Featured python projects will go here.
+
+## Featured BI Projects
+
+Featured BI projects will go here.
 
 <!--
 **KGGoodchild/KGGoodchild** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
