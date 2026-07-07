@@ -1,7 +1,5 @@
 # Welcome to my GitHub profile!
 
-This space is still a work in progress.
-
 My name is Keenan Goodchild! I'm currently working on building out my portfolio here on GitHub.
 I'm open to opportunities that will allow me to continue working with data in meaningful ways.
 
