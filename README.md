@@ -58,7 +58,7 @@ These dashboards include KPI cards, trends, slicers, drill downs, tooltip summar
   <a href="https://www.linkedin.com/in/keenan-goodchild/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-
+</br>
   <a href="mailto:keenan.goodchild@gmail.com">
     <img src="https://img.shields.io/badge/Email-keenan.goodchild@gmail.com-DC143C?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
