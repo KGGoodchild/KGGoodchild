@@ -46,7 +46,7 @@ I'm open to opportunities that will allow me to continue working with data in me
 
 ### Power BI Development
 
-![Austin,TX Real Estate Insights Demo](PowerBI-Portfolio/Austin_Housing_Tool/images/Austin_Insights_Intro.gif)
+![Austin,TX Real Estate Insights Demo](https://github.com/KGGoodchild/PowerBI-Portfolio/blob/main/Austin_Housing_Tool/images/Austin_Insights_Intro.gif)
 
 My Power BI projects focus on creating clean, professional reports and self-service Power BI tools, built with user-friendly web-design principles, converting end-users from passive data viewers into active, independent data investigators.
 
