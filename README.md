@@ -10,12 +10,12 @@ I'm open to opportunities that will allow me to continue working with data in me
 
 
 ## Certifications and Tools
-#### *Certifications:*<br/>
+### *Certifications:*<br/>
 ![Microsoft Excel Expert](https://img.shields.io/badge/Microsoft-Excel_Expert-10793F?style=for-the-badge)
 ![Power BI Data Analyst](https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-F4D249?style=for-the-badge)
 ![Entry-Level Python Programmer](https://img.shields.io/badge/Python_Institute-Entry--Level%20Programmer-FFE873?style=for-the-badge&logo=python)
 
-#### *Programs/Tools I've Used:*<br/>
+### *Programs/Tools I've Used:*<br/>
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Microsoft_Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge)
