@@ -52,7 +52,7 @@ My Power BI projects focus on creating clean, professional reports and self-serv
 
 These projects include KPI metrics, trends, slicers (including slicer panels), drill downs, tooltip summaries, category analysis, financial metrics, and high-level infographics.
 
-[View my Power BI Portfolio](https://github.com/KGGoochild/PowerBI-Portfolio)
+[View my Power BI Portfolio](https://github.com/KGGoodchild/PowerBI-Portfolio)
 
 ---
 
