@@ -4,7 +4,7 @@
 > 
 My name is Keenan Goodchild! I'm a self-starting professional, with experience in Microsoft Power BI, Excel, Python, SQL and data cataloging tools, known for my strong problem-solving skills, relentless work ethic, efficient organization and time management, as well as being a detail-oriented team player. I'm dedicated and passionate about utilizing data to drive actionable decisions to help businesses achieve their goals.
 
-I specialize in Power BI data modeling and visualization, Excel reporting, SQL data exploration, data curation, data catalog management, and Python data wrangling. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, predictive outputs, and clear business insights that help organizations make smarter data driven decisions.
+I specialize in Power BI data modeling and visualization, Excel reporting, SQL data exploration, data curation, data catalog management, and Python data wrangling. My work focuses on transforming raw data into clean reporting models, report ready datasets, and clear business insights.
 
 I'm open to opportunities that will allow me to continue working with data in meaningful ways. I am based in North TX and prefer hybrid or remote opportunities, if available.
 
@@ -45,6 +45,8 @@ I'm open to opportunities that will allow me to continue working with data in me
 ## Featured Project Areas
 
 ### Power BI Development
+
+![Austin,TX Real Estate Insights Demo](PowerBI-Portfolio/Austin_Housing_Tool/images/Austin_Insights_Intro.gif)
 
 My Power BI projects focus on creating clean, professional reports and self-service Power BI tools, built with user-friendly web design principals, that turn the end-users from passive data viewers into active, independent data investigators.
 
