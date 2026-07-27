@@ -48,7 +48,7 @@ I'm open to opportunities that will allow me to continue working with data in me
 
 ![Austin,TX Real Estate Insights Demo](PowerBI-Portfolio/Austin_Housing_Tool/images/Austin_Insights_Intro.gif)
 
-My Power BI projects focus on creating clean, professional reports and self-service Power BI tools, built with user-friendly web design principals, that turn the end-users from passive data viewers into active, independent data investigators.
+My Power BI projects focus on creating clean, professional reports and self-service Power BI tools, built with user-friendly web-design principles, that turn the end-users from passive data viewers into active, independent data investigators.
 
 These projects include KPI metrics, trends, slicers (including slicer panels), drill downs, tooltip summaries, category analysis, financial metrics, and high-level infographics.
 
