@@ -6,16 +6,16 @@ My name is Keenan Goodchild! I'm a self-starting professional, with experience i
 
 I specialize in Power BI data modeling and visualization, Excel reporting, SQL data exploration, data curation, data catalog management, and Python data wrangling. My work focuses on transforming raw data into clean reporting models, dashboard ready datasets, predictive outputs, and clear business insights that help organizations make smarter data driven decisions.
 
-I'm open to opportunities that will allow me to continue working with data in meaningful ways. I am based in North TX and prefer hybrid or remote opportunities.
+I'm open to opportunities that will allow me to continue working with data in meaningful ways. I am based in North TX and prefer hybrid or remote opportunities, if available.
 
 
 ## Certifications and Tools
-*Certifications:*<br/>
+#### *Certifications:*<br/>
 ![Microsoft Excel Expert](https://img.shields.io/badge/Microsoft-Excel_Expert-10793F?style=for-the-badge)
 ![Power BI Data Analyst](https://img.shields.io/badge/Microsoft-Power%20BI%20Data%20Analyst-F4D249?style=for-the-badge)
 ![Entry-Level Python Programmer](https://img.shields.io/badge/Python_Institute-Entry--Level%20Programmer-FFE873?style=for-the-badge&logo=python)
 
-*Programs/Tools I've Used:*<br/>
+#### *Programs/Tools I've Used:*<br/>
 ![Excel](https://img.shields.io/badge/Microsoft_Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Power Query](https://img.shields.io/badge/Power_Query-0078D4?style=for-the-badge)
@@ -30,12 +30,13 @@ I'm open to opportunities that will allow me to continue working with data in me
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
 ## Core Skills
-
-![Dashboard Development](https://img.shields.io/badge/Dashboard_Development-228B22?style=for-the-badge)
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-1E90FF?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4B0082?style=for-the-badge)
+![Data Exploration](https://img.shields.io/badge/Data_Exploration-critical?style=for-the-badge)
 ![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-3776AB?style=for-the-badge)
+![Infographic Creation](https://img.shields.io/badge/Infographic_/_Dashboard_Development-green?style=for-the-badge)
+![Storytelling with Data](https://img.shields.io/badge/Storytelling%20with%20Data-FFD700?style=for-the-badge&logo=slides&logoColor=black)
 ![Data Curation](https://img.shields.io/badge/Data_Curation-FF1493?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data_Validation-B22222?style=for-the-badge)
 ![Data Catalog Management](https://img.shields.io/badge/Data_Catalog_Management-success?style=for-the-badge)
@@ -171,10 +172,7 @@ I am open to full time and contract opportunities in:
 * Business intelligence
 * Dashboard development
 * Power BI reporting
-* Tableau dashboard development
 * SQL reporting views
-* PostgreSQL analytics
-* Forecasting
 * KPI validation
 * Executive reporting
 
