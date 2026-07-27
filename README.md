@@ -1,8 +1,8 @@
-# Welcome to my GitHub profile!
+# Thanks for checking out my GitHub profile, I'm Keenan!
 
 > Note: This profile is still in its early stages and should be considered a work in progress.
-> 
-My name is Keenan Goodchild! I'm a self-starting professional, with experience in Microsoft Power BI, Excel, Python, SQL and data cataloging tools, known for my strong problem-solving skills, relentless work ethic, efficient organization and time management, as well as being a detail-oriented team player. I'm dedicated and passionate about utilizing data to drive actionable decisions to help businesses achieve their goals.
+
+I'm a self-starting professional, with experience in Microsoft Power BI, Excel, Python, SQL and data cataloging tools, known for my strong problem-solving skills, relentless work ethic, efficient organization and time management, as well as being a detail-oriented team player. I'm dedicated and passionate about utilizing data to drive actionable decisions to help businesses achieve their goals.
 
 I specialize in Power BI data modeling and visualization, Excel reporting, SQL data exploration, data curation, data catalog management, and Python data wrangling. My work focuses on transforming raw data into clean reporting models, report ready datasets, and clear business insights.
 
@@ -60,7 +60,7 @@ These projects include KPI metrics, trends, slicers (including slicer panels), d
 
 <p align="left">
   <a href="https://www.linkedin.com/in/keenan-goodchild/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Check_Out_My_Profile-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </br>
   <a href="mailto:keenan.goodchild@gmail.com">
