@@ -1,6 +1,6 @@
 # Welcome to my GitHub profile!
 
-> Note: This space is being built out and should be considered a work in progress.
+> Note: This profile is still in its early stages and should be considered a work in progress.
 > 
 My name is Keenan Goodchild! I'm a self-starting professional, with experience in Microsoft Power BI, Excel, Python, SQL and data cataloging tools, known for my strong problem-solving skills, relentless work ethic, efficient organization and time management, as well as being a detail-oriented team player. I'm dedicated and passionate about utilizing data to drive actionable decisions to help businesses achieve their goals.
 
@@ -35,18 +35,19 @@ I'm open to opportunities that will allow me to continue working with data in me
 ![Business Intelligence](https://img.shields.io/badge/Business_Intelligence-1E90FF?style=for-the-badge)
 ![Data Modeling](https://img.shields.io/badge/Data_Modeling-008080?style=for-the-badge)
 ![Data Visualization](https://img.shields.io/badge/Data_Visualization-4B0082?style=for-the-badge)
-![Python Analytics](https://img.shields.io/badge/Python_Analytics-3776AB?style=for-the-badge)
-![Forecasting](https://img.shields.io/badge/Forecasting-FF1493?style=for-the-badge)
+![Data Cleaning](https://img.shields.io/badge/Data_Cleaning-3776AB?style=for-the-badge)
+![Data Curation](https://img.shields.io/badge/Data_Curation-FF1493?style=for-the-badge)
 ![Data Validation](https://img.shields.io/badge/Data_Validation-B22222?style=for-the-badge)
 ![Data Catalog Management](https://img.shields.io/badge/Data_Catalog_Management-success?style=for-the-badge)
+![Internal Marketing](https://img.shields.io/badge/Internal_Marketing-important?style=for-the-badge)
 
 ## Featured Project Areas
 
-### Power BI Dashboard Development
+### Power BI Development
 
-My Power BI projects focus on creating clean, professional dashboards and self-service Power BI tools, built with user-friendly web design principals, that turn the end-users from passive data viewers into active data investigators.
+My Power BI projects focus on creating clean, professional dashboards and self-service Power BI tools, built with user-friendly web design principals, that turn the end-users from passive data viewers into active, independent data investigators.
 
-These dashboards include KPI cards, trends, slicers, drill downs, tooltip summaries, category analysis, financial metrics, and executive summaries.
+These projects include KPI cards, trends, slicers, drill downs, tooltip summaries, category analysis, financial metrics, and high-level infographics.
 
 [View My Power BI Portfolio](https://github.com/KGGoochild/PowerBI-Portfolio)
 
