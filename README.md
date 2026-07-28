@@ -1,6 +1,6 @@
 # Thanks for checking out my GitHub profile, I'm Keenan!
 
-> *Note: This profile is actively being updated and should be considered a work in progress.*
+> *Note: This profile is a work in progress and is actively being updated.*
 
 I'm a self-starting professional, with experience in Microsoft Power BI, Excel, Python, SQL and data cataloging tools, known for my strong problem-solving skills, relentless work ethic, efficient organization and time management, as well as being a detail-oriented team player. I'm dedicated and passionate about utilizing data to drive actionable decisions to help businesses achieve their goals.
 
