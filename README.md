@@ -52,6 +52,14 @@ My Power BI projects focus on creating clean, professional reports and self-serv
 
 ---
 
+### Excel Development
+
+![Billionaire Dashboard](https://github.com/KGGoodchild/Excel-Portfolio/blob/main/2024_Billionaire_Dashboard/images/introduction.gif)
+
+My Excel projects focus on creating clean, professional dashboards and transforming raw data into **analysis-ready datasets** that can be mined for insights.
+
+### [View my Excel Portfolio](https://github.com/KGGoodchild/Excel-Portfolio)
+
 ## Connect With Me
 
 <p align="left">
@@ -70,8 +78,6 @@ My Power BI projects focus on creating clean, professional reports and self-serv
 > *Note: This Github profile is a work in progress and is actively being updated.*
 
 <!--
-
-<img src="https://raw.githubusercontent.com/ashlynstrickland23/PowerBI_Portfolio/main/Sales_Performance_Dashboard/images/Untitled%20design%20%286%29.gif" width="900">
 
 ---
 
