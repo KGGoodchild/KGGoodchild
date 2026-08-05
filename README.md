@@ -56,7 +56,7 @@ My Power BI projects focus on creating clean, professional reports and self-serv
 
 ![Billionaire Dashboard](https://github.com/KGGoodchild/Excel-Portfolio/blob/main/2024_Billionaire_Dashboard/images/introduction.gif)
 
-My Excel projects focus on creating clean, professional dashboards and transforming raw data into **analysis-ready datasets** that can be mined for insights.
+My Excel projects focus on creating **clean, professional dashboards** and transforming raw data into **analysis-ready datasets** that can be mined for insights within Excel or other programs such as Power BI.
 
 ### [View my Excel Portfolio](https://github.com/KGGoodchild/Excel-Portfolio)
 
